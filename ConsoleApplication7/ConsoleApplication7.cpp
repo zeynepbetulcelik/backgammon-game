@@ -225,8 +225,7 @@ string changeturn(string turn) {
     return newturn;
 }
 
-vector<string>readfile(string gamename) { //burada tablo dosyasını okuyup kaldığı yerden devam etmesi için kodu yazacaktım ama yetiştiremedim :( 
-    //daha sonra tamamlayıp github hesabıma pushlayacağım 
+vector<string>readfile(string gamename) { 
     std::ifstream file;
     file.open("table.dat");
     int data = 0;
