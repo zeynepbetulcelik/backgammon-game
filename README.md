@@ -21,6 +21,7 @@ Player X’s Side (Player X’s play direction is clockwise)
 </p>
 
 
+
 Player Y’s Side (Player Y’s play direction is counter-clockwise)
 E3 and F3 is the container of current dice throw
 1)The starting state must be written into the file.
