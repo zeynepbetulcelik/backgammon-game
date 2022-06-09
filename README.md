@@ -1,5 +1,5 @@
 
-# Backgammon Game (Classic Backgammon(known as Erkek Tavlası in Turkish) Programming using Files.
+# Backgammon Game (Classic Backgammon(known as Erkek Tavlası in Turkish) Programming
 You will create and maintain 2 files, one for Backgammon table (name must be Table.dat)(figure 2), the second table
 is for Dice history and play log (the example file is like in Figure 1).
 
